@@ -41,6 +41,8 @@ public class Contact {
             }
         	break;
         	
+        default :
+        	
         }    				
         this.value = trimmedvalue;
     }
